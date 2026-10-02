@@ -1,6 +1,5 @@
 node_modules/
 dist/
-.env
 *.log
 coverage/
 /uploads/
@@ -10,3 +9,4 @@ coverage/
 .claude/
 issue.md
 skills-lock.json
+config.bat
